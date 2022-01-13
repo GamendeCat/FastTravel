@@ -1,0 +1,9 @@
+name: FastTravel
+version: '${project.version}'
+main: com.semivanilla.fasttravel.FastTravel
+api-version: 1.18
+authors: [ GamendeCat ]
+description: Travelling over waypoints
+commands:
+  Fasttravel:
+    description: Main command

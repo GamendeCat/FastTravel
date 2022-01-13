@@ -1,0 +1,26 @@
+distance: 5
+
+delayMessage: "<gray>Teleporting in 5 seconds, don't move..."
+teleportMessage: "<gray>Teleporting..."
+waypointCreateMessage: "<green>New waypoint created. Open config modify."
+waypointRemoveMessage: "<red>Waypoint deleted."
+deniedMessage: "<red>You do not have permission to do this"
+requestCancelledMessage: "<red>Your request got cancelled"
+playerAddedWaypoint: "<green>You discovered <waypoint>! Now you can teleport to this waypoint!"
+commandHelp: "Invalid usage please do /custommotd help for more info"
+commandHelpList: "<command>: <usage> - <description>"
+waypointAlreadyExists: "<red>A waypoint with that name already exists."
+
+markerColor: "cyan"
+markerWeight: 1
+markerOpacity: 1.0D
+markerFillColor: "cyan"
+markerFillOpacity: 0.2D
+
+layerLabel: "Waypoint"
+showControls: true
+layerControlsHidden: true
+
+radius: 250
+
+rows: 3
